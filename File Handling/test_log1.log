@@ -1,0 +1,32 @@
+2024-03-17 15:26:07,105 root INFO This is my line of execution
+2024-03-17 15:26:07,105 root ERROR This is my error
+2024-03-17 15:26:07,105 root CRITICAL This is my critical error
+2024-03-17 15:26:41,010 root INFO This is my line of execution
+2024-03-17 15:26:41,011 root ERROR This is my error
+2024-03-17 15:26:41,011 root CRITICAL This is my critical error
+2024-03-17 15:26:41,011 root DEBUG This is my info related to debug
+2024-03-17 15:26:59,392 root INFO This is my line of execution
+2024-03-17 15:26:59,393 root ERROR This is my error
+2024-03-17 15:26:59,393 root CRITICAL This is my critical error
+2024-03-17 15:26:59,393 root DEBUG This is my info related to debug
+2024-03-17 15:31:41,192 parso.cache DEBUG pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+2024-03-17 15:31:41,257 parso.cache DEBUG pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2024-03-17 15:31:46,485 parso.python.diff DEBUG diff parser start
+2024-03-17 15:31:46,486 parso.python.diff DEBUG line_lengths old: 14; new: 15
+2024-03-17 15:31:46,486 parso.python.diff DEBUG -> code[equal] old[1:13] new[1:13]
+2024-03-17 15:31:46,486 parso.python.diff DEBUG copy old[1:2] new[1:2]
+2024-03-17 15:31:46,488 parso.python.diff DEBUG parse_part from 3 to 14 (to 14 in part parser)
+2024-03-17 15:31:46,488 parso.python.diff DEBUG -> code[replace] old[14:14] new[14:15]
+2024-03-17 15:31:46,488 parso.python.diff DEBUG parse_part from 15 to 15 (to 14 in part parser)
+2024-03-17 15:31:46,489 parso.python.diff DEBUG diff parser end
+2024-03-17 15:34:20,451 root INFO This is my line of execution
+2024-03-17 15:34:20,452 root ERROR This is my error
+2024-03-17 15:34:20,452 root CRITICAL This is my critical error
+2024-03-17 15:34:20,452 root DEBUG This is my info related to debug
+2024-03-17 15:35:49,092 root INFO Start of my 1st for loop [1, 2, 3, 4, [5, 6, 7], 'Uk']
+2024-03-17 15:35:49,092 root INFO This is the value of I being logged [5, 6, 7]
+2024-03-17 15:37:48,948 root INFO Start of my 1st for loop [1, 2, 3, 4, [5, 6, 7], 'Uk']
+2024-03-17 15:37:48,948 root INFO This is the value of I being logged [5, 6, 7]
+2024-03-17 15:37:48,948 root INFO Logging my j 5
+2024-03-17 15:37:48,949 root INFO Logging my j 6
+2024-03-17 15:37:48,949 root INFO Logging my j 7
